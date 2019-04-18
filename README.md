@@ -34,6 +34,14 @@ https://nodejs.org/dist/latest-v10.x/docs/api/readline.html
 
 ## 11. Package.json 5%
 
+### npm and package.json
+
+https://docs.npmjs.com/files/package.json
+
+https://docs.npmjs.com/cli-documentation/
+
+https://docs.npmjs.com/misc/config#shorthands-and-other-cli-niceties
+
 ## 12. Javascript Prerequisites (Closures, prototypes, var/let/const) 6%
 
 ## 13. Security (Basics only) 5%
