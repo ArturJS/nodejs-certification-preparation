@@ -48,4 +48,16 @@ https://docs.npmjs.com/misc/config#shorthands-and-other-cli-niceties
 
 ## 14. Module system (Scope) 6%
 
+https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/
+
+https://habr.com/ru/post/217901/
+
+https://www.w3schools.com/nodejs/nodejs_modules.asp
+
+http://www.java2s.com/Tutorials/Javascript/Node.js_Tutorial/1000__Node.js_Module_System.htm
+
+https://medium.freecodecamp.org/requiring-modules-in-node-js-everything-you-need-to-know-e7fbd119be8
+
+http://speakingjs.com/es5/ch16.html
+
 ## 15. Process/Operating System (no IPC) 5%
