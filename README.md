@@ -18,6 +18,10 @@ List of useful info about https://github.com/nodejs-certified-developer/certific
 
 ## 8. File System 7%
 
+https://nodejs.org/dist/latest/docs/api/fs.html
+
+https://www.tutorialspoint.com/nodejs/nodejs_file_system.htm
+
 ## 9. Control flow (Async tasks, Callbacks) 10%
 
 ## 10. CLI (-e, -r, etc.) 3%
