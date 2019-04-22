@@ -12,6 +12,12 @@ List of useful info about https://github.com/nodejs-certified-developer/certific
 
 ## 5. Child Processes (Basics, no IPC/fork) 7%
 
+https://github.com/azat-co/you-dont-know-node#spawn-vs-fork-vs-exec
+
+https://nodejs.org/dist/latest/docs/api/child_process.html#child_process_child_process_exec_command_options_callback
+
+https://webapplog.com/you-dont-know-node/
+
 ## 6. Buffers and Streams 9%
 
 https://medium.com/tensult/stream-and-buffer-concepts-in-node-js-87d565e151a0
