@@ -14,6 +14,18 @@ List of useful info about https://github.com/nodejs-certified-developer/certific
 
 ## 6. Buffers and Streams 9%
 
+https://medium.com/tensult/stream-and-buffer-concepts-in-node-js-87d565e151a0
+
+https://habr.com/ru/company/zerotech/blog/339900/
+
+https://medium.freecodecamp.org/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8
+
+https://makeomatic.ru/blog/2016/08/22/Streams_handbook/
+
+https://rishabh.io/tech/nodejs/nodejs-buffers-and-streams.html
+
+https://codeburst.io/nodejs-streams-demystified-e0b583f0005
+
 ## 7. Error Handling 7%
 
 ## 8. File System 7%
