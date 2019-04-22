@@ -68,6 +68,10 @@ https://docs.npmjs.com/misc/config#shorthands-and-other-cli-niceties
 
 ## 13. Security (Basics only) 5%
 
+https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
+
+https://blog.risingstack.com/node-hero-node-js-security-tutorial/
+
 ## 14. Module system (Scope) 6%
 
 https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/
