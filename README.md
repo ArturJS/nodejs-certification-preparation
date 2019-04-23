@@ -26,6 +26,14 @@ http://getbug.ru/nastroyka-freymvorka-testirovaniya-node-js/
 
 ## 2. Diagnostics (Basics, Debugging, Performance) 5%
 
+https://github.com/matvi3nko/nodejs-diagnostics-resources
+
+https://youtu.be/_qzFJ2MPVWQ
+
+https://youtu.be/K8spO4hHMhg
+
+https://youtu.be/briH-bfleIM
+
 ## 3. http(s) TCP 11%
 
 ## 4. Events 9%
