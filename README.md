@@ -4,6 +4,26 @@ List of useful info about https://github.com/nodejs-certified-developer/certific
 
 ## 1. Unit Testing 5%
 
+https://medium.com/devschacht/node-hero-6a07ef8d822d
+
+https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02
+
+https://codeburst.io/javascript-unit-testing-using-mocha-and-chai-1d97d9f18e71
+
+https://habr.com/ru/post/308352/
+
+https://hackernoon.com/testing-node-js-in-2018-10a04dd77391
+
+https://medium.com/devschacht/node-hero-chapter-9-68041507aec
+
+https://www.codementor.io/davidtang/unit-testing-and-tdd-in-node-js-part-1-8t714s877
+
+https://blog.risingstack.com/node-hero-node-js-unit-testing-tutorial/
+
+https://www.guru99.com/node-js-testing-jasmine.html
+
+http://getbug.ru/nastroyka-freymvorka-testirovaniya-node-js/
+
 ## 2. Diagnostics (Basics, Debugging, Performance) 5%
 
 ## 3. http(s) TCP 11%
