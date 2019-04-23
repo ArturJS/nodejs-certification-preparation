@@ -54,6 +54,22 @@ https://codeburst.io/nodejs-streams-demystified-e0b583f0005
 
 ## 7. Error Handling 7%
 
+https://www.joyent.com/node-js/production/design/errors
+
+https://habr.com/ru/post/222761/
+
+https://github.com/i0natan/nodebestpractices/tree/security-best-practices-section/sections/errorhandling
+
+https://nodejs.org/api/errors.html
+
+https://medium.com/front-end-weekly/error-handling-in-node-javascript-suck-unless-you-know-this-2018-aa0a14cfdd9d
+
+https://www.loggly.com/blog/node-js-error-handling/
+
+https://stackoverflow.com/questions/7310521/node-js-best-practice-exception-handling/7313005#7313005
+
+https://medium.freecodecamp.org/how-to-gracefully-handle-failures-in-a-node-js-api-client-605673cb72ab
+
 ## 8. File System 7%
 
 https://nodejs.org/dist/latest/docs/api/fs.html
