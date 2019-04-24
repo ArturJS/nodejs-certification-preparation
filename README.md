@@ -38,6 +38,12 @@ https://youtu.be/briH-bfleIM
 
 ## 4. Events 9%
 
+https://nodejs.org/api/events.html
+
+https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
+
+https://medium.com/devschacht/safia-abdalla-node-module-deep-dive-eventemitter-f2b7954c4760
+
 ## 5. Child Processes (Basics, no IPC/fork) 7%
 
 https://github.com/azat-co/you-dont-know-node#spawn-vs-fork-vs-exec
