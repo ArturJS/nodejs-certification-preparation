@@ -92,6 +92,16 @@ https://www.tutorialspoint.com/nodejs/nodejs_file_system.htm
 
 ## 9. Control flow (Async tasks, Callbacks) 10%
 
+https://nodejs.org/es/docs/guides/event-loop-timers-and-nexttick/
+
+https://medium.com/devschacht/event-loop-timers-and-nexttick-18579cd122e0
+
+https://guides.codepath.com/nodejs/Control-flow
+
+https://www.sitepoint.com/flow-control-callbacks-promises-async-await/
+
+http://book.mixu.net/node/ch7.html
+
 ## 10. CLI (-e, -r, etc.) 3%
 
 node -p
