@@ -36,6 +36,22 @@ https://youtu.be/briH-bfleIM
 
 ## 3. http(s) TCP 11%
 
+https://medium.com/@sethhodgson/under-the-hood-of-http-requests-in-node-f273b44ff718
+
+https://nodejs.org/api/https.html - docs https
+
+https://webformyself.com/node-js-net-modul/
+
+https://www.codementor.io/murphyisiwele/demystifying-nodejs-part-1-tcp-sockets-bf6bbskwz
+
+https://medium.com/@Alibaba_Cloud/node-js-tcp-app-development-on-ecs-3109ab73fada
+
+https://medium.com/yld-engineering-blog/building-a-tcp-service-using-node-js-79385fe4443e
+
+https://medium.com/@vsvaibhav2016/create-http-server-in-node-js-a3a452477771
+
+https://medium.com/@nileshsingh/everything-about-creating-an-https-server-using-node-js-2fc5c48a8d4e
+
 ## 4. Events 9%
 
 https://nodejs.org/api/events.html
