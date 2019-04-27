@@ -26,6 +26,8 @@ http://getbug.ru/nastroyka-freymvorka-testirovaniya-node-js/
 
 ## 2. Diagnostics (Basics, Debugging, Performance) 5%
 
+https://speakerdeck.com/wa7son/holyjs-moscow-2016-debugging-node-dot-js-in-production?slide=3
+
 https://github.com/matvi3nko/nodejs-diagnostics-resources
 
 https://youtu.be/_qzFJ2MPVWQ
