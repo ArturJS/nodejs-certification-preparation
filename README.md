@@ -142,6 +142,26 @@ https://docs.npmjs.com/misc/config#shorthands-and-other-cli-niceties
 
 ## 12. Javascript Prerequisites (Closures, prototypes, var/let/const) 6%
 
+https://developer.mozilla.org/ru/docs/Web/JavaScript/Closures
+
+https://www.w3schools.com/js/js_function_closures.asp
+
+https://github.com/azat-io/you-dont-know-js-ru/blob/master/scope & closures/ch5.md
+
+https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4
+
+https://learn.javascript.ru/new-prototype
+
+https://learn.javascript.ru/prototype
+
+https://hackernoon.com/prototypes-in-javascript-5bba2990e04b
+
+https://github.com/getify/You-Dont-Know-JS/blob/master/this & object prototypes/ch5.md
+
+https://habr.com/ru/post/438880/
+
+https://medium.com/@vkozulya/d194b902cfc0
+
 ## 13. Security (Basics only) 5%
 
 https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-practices-e33c146cb87d
