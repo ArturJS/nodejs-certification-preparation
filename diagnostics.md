@@ -36,6 +36,7 @@ apt search lldb # find available versions
 # in my case I installed 6.0 version
 sudo apt install lldb-6.0 python-lldb-6.0 liblldb-6.0-dev
 sudo ln -s /usr/bin/lldb-6.0 /usr/bin/lldb
+npm i -g llnode
 ```
 
 3. Inspect coredump

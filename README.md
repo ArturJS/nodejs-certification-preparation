@@ -26,7 +26,7 @@ https://www.guru99.com/node-js-testing-jasmine.html
 
 http://getbug.ru/nastroyka-freymvorka-testirovaniya-node-js/
 
-## 2. Diagnostics (Basics, Debugging, Performance) 5%
+## [2. Diagnostics (Basics, Debugging, Performance) 5%](./diagnostics.md)
 
 https://speakerdeck.com/wa7son/holyjs-moscow-2016-debugging-node-dot-js-in-production?slide=3
 
