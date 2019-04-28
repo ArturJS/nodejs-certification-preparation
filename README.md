@@ -4,6 +4,8 @@ List of useful info about https://github.com/nodejs-certified-developer/certific
 
 ## [1. Unit Testing 5%](./unit_testing.md)
 
+https://blog.testlodge.com/tdd-vs-bdd/
+
 https://medium.com/devschacht/node-hero-6a07ef8d822d
 
 https://hackernoon.com/a-crash-course-on-testing-with-node-js-6c7428d3da02
