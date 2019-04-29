@@ -58,3 +58,27 @@ v8 help #show all commands
 ```
 
 More information about how to work with llnode here -> https://developer.ibm.com/node/2016/08/15/exploring-node-js-core-dumps-using-the-llnode-plugin-for-lldb/
+
+<hr>
+
+### Memory leaks inspection with `heapdump`
+
+App
+
+```
+npm install --save heapdump
+
+require('heapdump')
+```
+
+Production server
+
+```
+kill -USR2 <pid>
+```
+
+Google Chrome DevTools
+
+```
+profiles -> Load (2 dumps) -> Comparison
+```
