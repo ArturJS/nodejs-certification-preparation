@@ -82,3 +82,19 @@ Google Chrome DevTools
 ```
 profiles -> Load (2 dumps) -> Comparison
 ```
+
+#### Common causes of memory leaks:
+
+1. Frequent garbage collections **Scavenge GC** in **New Object Space** which loads CPU:
+
+    - Expensive operations of `clone` and `merge` of objects
+    - Frequent objects creation
+
+2. **Old Object Space**
+
+    - Closures
+    - Timers
+
+3. **Large Object Space**
+    - JSON stringify and parse
+    - strings concatenation
