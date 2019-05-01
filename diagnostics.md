@@ -98,3 +98,21 @@ profiles -> Load (2 dumps) -> Comparison
 3. **Large Object Space**
     - JSON stringify and parse
     - strings concatenation
+
+<hr>
+
+### Debugging via chrome devtools
+
+```
+node --inspect server.js
+```
+
+<br>
+
+or if you want to break on the first line of the application code
+
+```
+node --inspect-brk server.js
+```
+
+But I'm personally a big proponent of https://github.com/GoogleChromeLabs/ndb
