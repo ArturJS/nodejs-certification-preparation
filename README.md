@@ -72,7 +72,7 @@ https://nodejs.org/dist/latest/docs/api/child_process.html#child_process_child_p
 
 https://webapplog.com/you-dont-know-node/
 
-## 6. Buffers and Streams 9%
+## [6. Buffers and Streams 9%](./buffers_and_streams.md)
 
 https://medium.com/tensult/stream-and-buffer-concepts-in-node-js-87d565e151a0
 
