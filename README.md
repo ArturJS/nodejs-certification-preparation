@@ -64,7 +64,7 @@ https://www.tutorialspoint.com/nodejs/nodejs_event_emitter.htm
 
 https://medium.com/devschacht/safia-abdalla-node-module-deep-dive-eventemitter-f2b7954c4760
 
-## 5. Child Processes (Basics, no IPC/fork) 7%
+## [5. Child Processes (Basics, no IPC/fork) 7%](./child_processes.md)
 
 https://github.com/azat-co/you-dont-know-node#spawn-vs-fork-vs-exec
 
