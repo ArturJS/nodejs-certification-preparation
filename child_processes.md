@@ -41,3 +41,12 @@ exec('node program.js', (error, stdout, stderr) => {
     if (error) console.log(error.code);
 });
 ```
+
+## There are few more methods
+
+-   `execFile()` - is similar to `exec()` except that it does **not spawn a shell** by default. Rather, the specified executable file is **spawned directly** as a new process making it slightly **more efficient** than `exec()`
+
+And sync versions of `exec` and `execFile`
+
+-   `execSync()`
+-   `execFileSync()`
