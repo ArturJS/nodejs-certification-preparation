@@ -122,7 +122,7 @@ https://www.sitepoint.com/flow-control-callbacks-promises-async-await/
 
 http://book.mixu.net/node/ch7.html
 
-## 10. CLI (-e, -r, etc.) 3%
+## [10. CLI (-e, -r, etc.) 3%](./cli.md)
 
 node -p
 node -r
