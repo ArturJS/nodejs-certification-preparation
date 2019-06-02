@@ -86,7 +86,7 @@ https://rishabh.io/tech/nodejs/nodejs-buffers-and-streams.html
 
 https://codeburst.io/nodejs-streams-demystified-e0b583f0005
 
-## 7. Error Handling 7%
+## [7. Error Handling 7%](./error_handling.md)
 
 https://www.joyent.com/node-js/production/design/errors
 
