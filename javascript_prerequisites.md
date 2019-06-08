@@ -35,4 +35,4 @@ The same as `let` except cannot be reassigned.
 
 The prototype is the *“backup storage of properties and methods”* of an object that is automatically used during a search. Also it's a better place for object methods as they are **shared** between object instances.
 
-**__proto__** - field on object that points to its prototype
+**\_\_proto\_\_** - field on object that points to its prototype
