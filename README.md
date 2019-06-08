@@ -144,7 +144,7 @@ https://docs.npmjs.com/cli-documentation/
 
 https://docs.npmjs.com/misc/config#shorthands-and-other-cli-niceties
 
-## 12. Javascript Prerequisites (Closures, prototypes, var/let/const) 6%
+## [12. Javascript Prerequisites (Closures, prototypes, var/let/const) 6%](./javascript_prerequisites.md)
 
 https://developer.mozilla.org/ru/docs/Web/JavaScript/Closures
 
