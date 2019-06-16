@@ -172,7 +172,7 @@ https://medium.com/@nodepractices/were-under-attack-23-node-js-security-best-pra
 
 https://blog.risingstack.com/node-hero-node-js-security-tutorial/
 
-## 14. Module system (Scope) 6%
+## [14. Module system (Scope) 6%](./module_system.md)
 
 https://blog.risingstack.com/node-js-at-scale-module-system-commonjs-require/
 
