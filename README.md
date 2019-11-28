@@ -194,10 +194,6 @@ https://nodejs.org/api/process.html
 
 https://nodejs.org/api/os.html
 
-<br>
-<br>
-<br>
-
 # Misc
 
 https://medium.freecodecamp.org/@samerbuna - Author for Pluralsight, O'Reilly, Manning, and LinkedIn Learning. Curator of jsComplete.com
