@@ -197,3 +197,5 @@ https://nodejs.org/api/os.html
 # Misc
 
 https://medium.freecodecamp.org/@samerbuna - Author for Pluralsight, O'Reilly, Manning, and LinkedIn Learning. Curator of jsComplete.com
+
+https://www.code-sample.com/2016/09/node-js-interview-questions-and-answers.html - 65 Best NodeJs Interview Questions and Answers
